@@ -4178,7 +4178,6 @@ a.logo:hover {
 
 .work-item:hover .work-title,
 .work-item:hover .work-descr {
-    ;
     color: #fff;
     -webkit-transition: all 0.35s cubic-bezier(0.300, 0.100, 0.580, 1.000);
     transition: all 0.35s cubic-bezier(0.300, 0.100, 0.580, 1.000);
